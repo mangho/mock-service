@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "devjs": "json-server db.js",
+    "nm": "nodemon server.js",
+    "devjson": "json-server db.json"
+  },
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  },
+  "devDependencies": {
+    "json-server": "^0.14.2",
+    "mockjs": "^1.0.1-beta3"
+  }
+}

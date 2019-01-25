@@ -1,0 +1,7 @@
+{
+    "port": "8091",
+    "watch": false,
+    "delay": 500,
+    "quiet":true,
+    "routes":"./routes.json"
+}
