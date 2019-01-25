@@ -2,5 +2,5 @@
 personal mock service
 ### install
 `cnpm install`
-### run dev
-`npm run devjs`
+### run dev(need nodemon)
+`npm run nm`
