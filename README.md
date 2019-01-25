@@ -1,6 +1,6 @@
 # mock-service
 personal mock service
-###install
+### install
 `cnpm install`
-###run dev
+### run dev
 `npm run devjs`
